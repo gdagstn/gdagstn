@@ -8,7 +8,7 @@ Since early 2021 I started honing my skills as a package developer. So fare I ha
 - 🍳 {[oveRlay](http://github.com/gdagstn/oveRlay)} - annotate 2D scatterplots with overlay polygons
 - 🎨 {[swatcheR](https://github.com/gdagstn/swatcheR)} - generate color swatches from pictures
 - 🦜 {[alamak](https://github.com/gdagstn/alamak)} - let Pixel Pals handle your errors
-- 🗺️ {[borges](https://github.com/gdagstn/borges)} - antique cartographic style UMAP and tSNE plots
+- 🗺️ {[borges](https://github.com/gdagstn/borges)} - antique cartographic style 2D point clouds (UMAP, tSNE and the like)
 
 with hopefully more to come.
 
