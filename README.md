@@ -12,6 +12,9 @@ Since early 2021 I started honing my skills as a package developer. So fare I ha
 - 🧫 {[cellula](https://github.com/gdagstn/cellula)} - pipeline with wrappers to many single cell RNA-seq analysis methods
 - 🏢 {[HDB](https://github.com/langleylab/HDB)} - a geometric test to detect batch effects in single cell RNA-seq 
 
+![hexwall](https://github.com/gdagstn/gdagstn/assets/21171362/873375f4-fd05-45cc-bbe4-254471cf3b87)
+
+
 with hopefully more to come.
 
 🛠 I am currently learning **three.js**, a little bit of **Python** on the side, and **Arduino** physical computing as a hobby. 
